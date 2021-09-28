@@ -9,7 +9,7 @@ public class Calculator {
 		 int sum = num1+num2;
 		 int sub =num1-num2;
 		System.out.println("Addition of two number"+ sum);
-		char var1 ='a';
+
 
 	}
 
